@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-clang++"
+	BuildStamp="20240812-0419-Experimental"
+	Name="Nates-MacBook-Air-7.local"
+	Generator="ctest-3.30.2"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="14.0.3.14030022"
+	OSName="macOS"
+	Hostname="Nates-Air-7.localdomain"
+	OSRelease="14.2.1"
+	OSVersion="23C71"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="Apple"
+	VendorID="Apple"
+	FamilyID="0"
+	ModelID="0"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="7168"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Aug 11 21:19 PDT</StartDateTime>
+		<StartTestTime>1723436399</StartTestTime>
+		<TestList/>
+		<EndDateTime>Aug 11 21:19 PDT</EndDateTime>
+		<EndTestTime>1723436399</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
